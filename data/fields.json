@@ -1,0 +1,12 @@
+[
+  {"name": "Field0", "soil_type": "loam", "soil_pH": 6.8, "water_availability": 0.7, "sun_exposure": 0.9, "nutrient_level": 0.8, "last_crop_family": "Poaceae"},
+  {"name": "Field1", "soil_type": "sandy", "soil_pH": 6.2, "water_availability": 0.4, "sun_exposure": 1.0, "nutrient_level": 0.5, "last_crop_family": "Fabaceae"},
+  {"name": "Field2", "soil_type": "clay", "soil_pH": 7.2, "water_availability": 0.8, "sun_exposure": 0.8, "nutrient_level": 0.9, "last_crop_family": "Solanaceae"},
+  {"name": "Field3", "soil_type": "loam", "soil_pH": 6.5, "water_availability": 0.6, "sun_exposure": 0.7, "nutrient_level": 0.7, "last_crop_family": "Brassicaceae"},
+  {"name": "Field4", "soil_type": "silty", "soil_pH": 6.9, "water_availability": 0.7, "sun_exposure": 0.9, "nutrient_level": 0.8, "last_crop_family": "Asteraceae"},
+  {"name": "Field5", "soil_type": "sandy", "soil_pH": 5.8, "water_availability": 0.3, "sun_exposure": 1.0, "nutrient_level": 0.4, "last_crop_family": "Poaceae"},
+  {"name": "Field6", "soil_type": "clay", "soil_pH": 7.0, "water_availability": 0.9, "sun_exposure": 0.8, "nutrient_level": 0.9, "last_crop_family": "Fabaceae"},
+  {"name": "Field7", "soil_type": "loam", "soil_pH": 6.3, "water_availability": 0.5, "sun_exposure": 0.8, "nutrient_level": 0.6, "last_crop_family": "Solanaceae"},
+  {"name": "Field8", "soil_type": "silty", "soil_pH": 6.7, "water_availability": 0.6, "sun_exposure": 0.9, "nutrient_level": 0.7, "last_crop_family": "Brassicaceae"},
+  {"name": "Field9", "soil_type": "loam", "soil_pH": 7.1, "water_availability": 0.7, "sun_exposure": 1.0, "nutrient_level": 0.8, "last_crop_family": "Asteraceae"}
+]

@@ -1,0 +1,12 @@
+[
+  {"name": "Wheat", "water_demand": 0.5, "nitrogen_demand": 0.6, "sun_requirement": 0.8, "soil_pH_min": 6.0, "soil_pH_max": 7.5, "family": "Poaceae", "is_legume": 0},
+  {"name": "Corn", "water_demand": 0.8, "nitrogen_demand": 0.9, "sun_requirement": 1.0, "soil_pH_min": 5.8, "soil_pH_max": 7.0, "family": "Poaceae", "is_legume": 0},
+  {"name": "Soybean", "water_demand": 0.6, "nitrogen_demand": 0.3, "sun_requirement": 0.9, "soil_pH_min": 6.0, "soil_pH_max": 7.0, "family": "Fabaceae", "is_legume": 1},
+  {"name": "Potato", "water_demand": 0.7, "nitrogen_demand": 0.7, "sun_requirement": 0.8, "soil_pH_min": 5.0, "soil_pH_max": 6.5, "family": "Solanaceae", "is_legume": 0},
+  {"name": "Tomato", "water_demand": 0.7, "nitrogen_demand": 0.8, "sun_requirement": 1.0, "soil_pH_min": 5.5, "soil_pH_max": 7.0, "family": "Solanaceae", "is_legume": 0},
+  {"name": "Alfalfa", "water_demand": 0.6, "nitrogen_demand": 0.2, "sun_requirement": 0.9, "soil_pH_min": 6.5, "soil_pH_max": 7.5, "family": "Fabaceae", "is_legume": 1},
+  {"name": "Barley", "water_demand": 0.4, "nitrogen_demand": 0.5, "sun_requirement": 0.8, "soil_pH_min": 6.0, "soil_pH_max": 7.5, "family": "Poaceae", "is_legume": 0},
+  {"name": "Sunflower", "water_demand": 0.5, "nitrogen_demand": 0.6, "sun_requirement": 1.0, "soil_pH_min": 6.0, "soil_pH_max": 7.5, "family": "Asteraceae", "is_legume": 0},
+  {"name": "Pea", "water_demand": 0.5, "nitrogen_demand": 0.3, "sun_requirement": 0.7, "soil_pH_min": 6.0, "soil_pH_max": 7.5, "family": "Fabaceae", "is_legume": 1},
+  {"name": "Canola", "water_demand": 0.6, "nitrogen_demand": 0.7, "sun_requirement": 0.9, "soil_pH_min": 5.5, "soil_pH_max": 7.0, "family": "Brassicaceae", "is_legume": 0}
+]
